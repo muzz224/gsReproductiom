@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Client.cpp
+  dllmain.cpp
+C:\Users\proje\Downloads\Akyi-fortnite-gs-for-gsReproductiom\Akyi-fortnite-gs-for-gsReproductiom\ErbiumClient\ErbiumClient\Private\dllmain.cpp(2,10): error C1083: Cannot open include file: '../../../gsproductions made by akyi gs/gsproductions made by akyi gs/Public/Configuration.h': No such file or directory
+  (compiling source file '/ErbiumClient/Private/dllmain.cpp')
+  
