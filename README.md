@@ -1,0 +1,1 @@
+hi this is a modded erbium gameserver so all credits to ploosh i did this in my free time for fun ig i havent used it in like a month so im not sure if it has any errors or bugss and if they are then probbly easy fix i guess my friend also worked on this so idk what changes he did if u use this which u probbly wont but if u do credits ploosh
